@@ -5,3 +5,4 @@ verbale5
 dio
 
 ciao2
+claro
